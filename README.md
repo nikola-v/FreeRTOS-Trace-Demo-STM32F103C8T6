@@ -1,6 +1,6 @@
 
-Project {#index}
-===================
+Project FreeRTOS-Trace-Demo-STM32F103C8T6
+=========================================
 
 
-This is an example project.
+Work in progress skeleton for FreeRTOS+Trace on STM32F103C8T6 Demo.
