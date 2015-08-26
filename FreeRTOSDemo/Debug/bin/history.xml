@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g0 -Map=FreeRTOSDemo.map -Os --gc-sections -LC:\Users\Zip\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\FreeRTOSDemo -TC:\Users\Zip\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\FreeRTOSDemo/arm-gcc-link.ld -g">
+      <target file="FreeRTOSDemo.elf" lastModified="14f67c77457">
+         <source file="..\obj\heap_1.o" lastModified="14f67c76f0f"/>
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="14f67c75180"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="14f67c752ed"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="14f67c7574c"/>
+         <source file="..\obj\queue.o" lastModified="14f67c765ef"/>
+         <source file="..\obj\croutine.o" lastModified="14f67c76965"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="14f67c76862"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="14f67c76728"/>
+         <source file="..\obj\event_groups.o" lastModified="14f67c76ab8"/>
+         <source file="..\obj\misc.o" lastModified="14f67c76bbb"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="14f67c74f4b"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="14f67c751d7"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="14f67c76265"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="14f67c7504c"/>
+         <source file="..\obj\tasks.o" lastModified="14f67c75aa9"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="14f67c77006"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="14f67c7612a"/>
+         <source file="..\obj\syscalls.o" lastModified="14f67c75f87"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="14f67c76dec"/>
+         <source file="..\obj\list.o" lastModified="14f67c75ea1"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="14f67c770f4"/>
+         <source file="..\obj\trcRecorder.o" lastModified="14f67c75d58"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="14f67c76cc3"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="14f67c74e46"/>
+         <source file="..\obj\port.o" lastModified="14f67c763fb"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="14f67c74bec"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="14f67c75626"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="14f67c7584e"/>
+         <source file="..\obj\main.o" lastModified="14f67c75418"/>
+         <source file="..\obj\timers.o" lastModified="14f67c7552f"/>
+      </target>
+   </processor>
+</history>
